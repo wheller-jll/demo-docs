@@ -10,7 +10,7 @@
 ### Layout
 | Keys | Field Name | Mappings |
 |---|---|---|
-|🔑|TENURE_HASH_KEY| [mappings](#TOTAL_SF)|
+|🔑|TENURE_HASH_KEY| [link](#TOTAL_SF)|
 ||TOTAL|FLOAT|Blah Blah Blah||
 ||TOTAL_SF|NULL||
 ||TOTAL_SM|NULL||
