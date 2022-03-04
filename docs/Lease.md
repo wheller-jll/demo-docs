@@ -1,5 +1,5 @@
 # Azara Lease Foundational Subject Area
-![ERD](img\156564523-46117ef9-bd79-43a4-98a4-f7b3063e3bcd.png)
+![ERD](lease.png)
 
 [areas](#areas)
 
