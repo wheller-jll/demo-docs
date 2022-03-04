@@ -1,3 +1,3 @@
 # demo-docs
 
-![ERD](./img/lease.png)
+![ERD](./img/ALR.svg)
