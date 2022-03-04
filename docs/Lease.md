@@ -1,5 +1,5 @@
 # Azara Lease Foundational Subject Area
-![ERD](lease.png)
+![ERD](https://github.com/wheller-jll/demo-docs/blob/main/docs/lease.png)
 
 [areas](#areas)
 
